@@ -1,0 +1,29 @@
+#  *** Vishnu Chakra SCHEDULER *** | v1.0 Developed By Jay Akbari
+# DYNAMIC 24x7 PERIODIC MULTI SCHEDULER WITH ALARM
+# ======================================================================================================================
+# Suggestions & More on GITHUB = github.com/developerjay-jokerfriend
+# ======================================================================================================================
+# FEATURES
+# Schedules 3 kind of activity reminders from user :-
+#                1. Drink Water Reminder (to drink how much ML of water to meet 3.5L of water requirement.)
+#                2. Eye Care Reminder (to wash eyes after certain minutes everyday)
+#                3. Physical Activity Reminder ( to perform physical activity after certain minutes everyday.)
+# ======================================================================================================================
+# * USER ANALYTICS *
+# Creates respective reminder Logs to view the reminder activity performance for the user.
+# (VIEW LOG FILES OF YOUR REMINDERS IN "VISHNU CHAKRA SCHEDULER" FOLDER LOCATED WHERE YOU HAVE PERFORMED INSTALLATION.)
+# ======================================================================================================================
+# * DYNAMIC *
+#   - USER can schedule time for which reminder will work in a day and how often reminders will repeat itself.
+#   - USER can choose which reminders to activate
+#   - Can activate one or more reminders simultaneously.
+#   - User can use their own mp3 file audio to set their own kind of alarm for all reminders.
+# =======================================================================================================================
+# * PERIODIC *
+#   - Once scheduled, it works 24x7 daily during the schedule time set by the user.
+#   - reminders repeat themselves  after certain interval of minutes set by user.
+# ========================================================================================================================
+# * ALARM *
+#   - Uses Pygame module to play alarm music in background via mp3 file when reminders occur.
+#   - Replace .mp3 files with the same names in "VISHNU CHAKRA SCHEDULER" folder where you have performed installation.
+# ========================================================================================================================
